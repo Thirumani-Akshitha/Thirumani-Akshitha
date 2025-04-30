@@ -26,7 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumani-akshitha&show_icons=true&locale=en&layout=compact" alt="thirumani-akshitha" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Thirumani-Akshitha" alt="GitHub Streak" />
-</p>
-
+![](https://nirzak-streak-stats.vercel.app/?user=Thirumani-Akshitha&theme=dark&hide_border=false)<br/>
