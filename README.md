@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Web-dev full stack course at Udemy.**
 
-- 👯 I’m looking to collaborate on **front-end web dev projects**
+- 👯 I’m looking to collaborate on **FullStack web dev projects**
 
 - 🤝 I’m looking for help with **completing my web-dev challenge**
 
-- 💬 Ask me about **front-end**
+- 💬 Ask me about **Full-Stack**
 
 - 📫 How to reach me **thirumaniakshitha@gmail.com**
 
